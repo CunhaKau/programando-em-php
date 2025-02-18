@@ -48,7 +48,6 @@
     
     $joao->saudacao(); //Exibe a saudação com os dados do João
 
-
     ?>
 </body>
 </html>
